@@ -1,0 +1,63 @@
+.container {
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+  background-color: darkred;
+  text-align: center;
+  color: white;
+  margin: -8px;
+  padding: 16px;
+}
+
+.photo {
+  border-radius: 16px;
+  height: 300px;
+  width: 300px;
+}
+
+.social a {
+  text-decoration: none;
+}
+
+.socials img {
+  height: 40px;
+  width: 40px;
+  margin: auto 16px;
+}
+
+.socials a {
+  text-decoration: none;
+}
+
+.container > div h2 {
+  text-align: center;
+}
+
+.about p {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.qualifications ol {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.hobbies ul {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.tech ul {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+p {
+  font-size: 1.5rem;
+}
+
+.dynamic-colour {
+  color: bisque;
+}
