@@ -36,7 +36,7 @@ In each respective folder on any topic, don't forget to read the rules below to 
   <li>⚔️ Put your files in correct folder like .cpp file in  c++ folder or .py file in python folder.</li>
   <li>⚔️ If folder is not present for your language create new with name of your programming language like C++ , Python etc</li>
   <li>⚔️ Make repo well maintained if topic not present in which you want to contribute create new folder for it in their paricular section or language</li>
-  <li>⚔️ Please put your GitHub name in the file to get accepted.</li>
+  <li>⚔️ Please put your GitHub name in the file in form of comments at top to get accepted.</li>
   <li>⚔️ Dont forget to star this repository and watch for more updates!</li>
 </ul>
 
